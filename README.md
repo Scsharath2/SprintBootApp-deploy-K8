@@ -1,2 +1,2 @@
-# SprintBootApp-deploy-K8
+# SpringBootApp-deploy-K8
 JAVA SPRING BOOT DEPLOY ON KUBERNETES WITH DB
